@@ -1,5 +1,5 @@
 {
-  "name": "iotz-lib",
+  "name": "@iotz/iotz.js",
   "version": "1.0.0",
   "description": "",
   "main": "dist/iotz.js",
@@ -19,5 +19,13 @@
   },
   "presets": [
     "env"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iot-z/iotz.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iot-z/iotz.js/issues"
+  },
+  "homepage": "https://github.com/iot-z/iotz.js#readme"
 }

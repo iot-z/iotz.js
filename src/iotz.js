@@ -28,7 +28,7 @@ export default {
         });
 
         fn(this._state);
-      } else if (data.type == 'state') {
+       } else if (data.type == 'state') {
         this._state.set(data.prop, data.val, false);
       }
     });
